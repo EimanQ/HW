@@ -1,0 +1,18 @@
+.box {
+    max-width: 40%;
+}
+body {
+    background-image: url(Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+* {
+    font-family: 'Montserrat';
+    font: 400;
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+}

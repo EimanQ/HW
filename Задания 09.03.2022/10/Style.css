@@ -1,0 +1,66 @@
+.main {
+    display: flex;
+    justify-content: flex-start;
+}
+.box1, .box2, .box3 {
+    width: 350px;
+    height: 407.65px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    margin-right: 20px;
+}
+.image {
+    background-image: url(Image.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 219.61px;
+    height: 237.45px;
+    margin: 15.1px 64.5px 155.1px 65.88px;
+}
+.image2 {
+    background-image: url(Image\ \(1\).png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 219.61px;
+    height: 237.45px;
+    margin: 15.1px 64.5px 155.1px 65.88px;
+}
+.text {
+    position: absolute;
+    font: 600 17px 'Montserrat';
+    margin: 307px 204.04px 79.65px 21.96px;
+}
+.svg, .svg2, .svg3 {
+    position: absolute;
+    margin: 15.35px 308px 373.81px 22px;
+}
+.cost1, .cost2 {
+    position: absolute;
+    font: 600 17px 'Montserrat';
+    color: #ffa542;
+    margin: 307px 35px 79.65px 271px;
+}
+.star {
+    position: absolute;
+    margin: 353px 304.71px 32.69px 21.96px;
+}
+.mark {
+    font: 600 17px 'Montserrat';
+    color: #838383;
+    position: absolute;
+    margin: 354px 267.71px 32.65px 55.29px;
+}
+.image3 {
+    background-image: url(Image\ \(2\).png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 219.61px;
+    height: 237.45px;
+    margin: 57px 65px 172px 66px;
+}
+.pods {
+    font: 600 20px 'Montserrat';
+    color: #838383;
+    margin-left: 20px;
+}

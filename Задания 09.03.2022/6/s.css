@@ -1,0 +1,8 @@
+.none {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+}
+.item {
+    padding-left: 20px;
+}

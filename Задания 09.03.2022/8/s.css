@@ -1,0 +1,23 @@
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+td {
+    border: 1px black solid;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+th {
+    border: 1px black solid;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box {
+    padding-left: 70px;
+    padding-right: 70px; 
+}
