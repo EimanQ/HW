@@ -1,6 +1,6 @@
 .box{
-max-width: 20%;
-border: 1px rgb(146, 247, 142) solid;
-margin: 5px;
-padding: 5px 30px 5px 30px;
+    max-width: 20%;
+    border: 1px rgb(146, 247, 142) solid;
+    margin: 5px;
+    padding: 5px 30px 5px 30px;
 }
